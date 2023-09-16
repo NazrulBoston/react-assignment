@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/G0NSzGW/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "description": "A classic novel about the discovery of a hidden, magical garden.",
+        "price": "$10000",
+        "credit": 1
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/y5h95Sm/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "Follow the thrilling journey of a daring explorer.",
+        "price": "15000",
+        "credit": 2
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/c6fHKk7/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "description": "Solve the puzzles and uncover the secrets of a haunted mansion.",
+        "price": "25000",
+        "credit": 10
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/gmKDtwb/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "A collection of mind-bending science fiction stories from the future.",
+        "price": "10000",
+        "credit":5
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/q12bNPb/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "description": "Travel back in time with this gripping historical adventure.",
+        "price": "35000",
+        "credit": 5
+    },
+    {
+        "id": "6",
+        "cover": "https://i.ibb.co/CJ47p37/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "description": "An enchanting tale of a magical forest and its inhabitants.",
+        "price": "19000",
+        "credit": 3
+    },
+    {
+        "id": "7",
+        "cover": "https://i.ibb.co/XYcLFrN/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "description": "Solve perplexing mysteries that will keep you on the edge of your seat.",
+        "price": "23000",
+        "credit": 5
+    },
+    {
+        "id": "8",
+        "cover": "https://i.ibb.co/Y8QDxvx/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "description": "Embark on an epic journey through a fantastical realm filled with magic and danger.",
+        "price": "12000",
+        "credit": 5
+    },
+    {
+        "id": "9",
+        "cover": "https://i.ibb.co/qsFjSMq/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "description": "Explore the world through the eyes of intrepid travelers and adventurers.",
+        "price": "10000",
+        "credit": 3
+    }
+]
