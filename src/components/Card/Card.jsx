@@ -1,12 +1,11 @@
 
-
 const Card = ({course}) => {
     console.log(course.title)
 
     return (
-        <div>
-            <h1>{course.title}</h1>
-        </div>
+     
+            <li className="list-decimal px-3">{course.title}</li>
+       
     );
 };
 
